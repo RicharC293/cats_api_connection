@@ -21,4 +21,4 @@ Puedes usarla como una base para una prueba técnica **Junior Level**
 
 ### Recursos
 * Api: https://catfact.ninja/
-* Imagenes: https://cataas.com/ # cats_api_connection
+* Imagenes: https://cataas.com/
