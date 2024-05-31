@@ -22,3 +22,10 @@ Puedes usarla como una base para una prueba técnica **Junior Level**
 ### Recursos
 * Api: https://catfact.ninja/
 * Imagenes: https://cataas.com/
+
+### Qué es un estado?
+https://medium.com/bancolombia-tech/gesti%C3%B3n-de-estados-en-flutter-qu%C3%A9-es-c%C3%B3mo-puedo-aplicarlo-5f2a7b168c62
+
+### Gestores de estado
+https://medium.com/@Faiz_Rhm/mastering-state-management-in-flutter-building-robust-and-responsive-apps-e8d61304c12b
+
